@@ -1,5 +1,5 @@
 window.config = {
-  url: 'http://shiwh.api.rzzl.dev.beta.lrwanche.com/',
+  url: 'http://release.api.rzzl.beta.lrwanche.com/',
   urlc: 'http://pre2.web.api.lrwanche.com/main/ossconfig/',
   ws: 'ws://dev.sapi.lrwanche.com/ws/'
 // http://release.api.rzzl.beta.lrwanche.com/
