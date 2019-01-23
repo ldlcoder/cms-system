@@ -1,0 +1,28 @@
+.order-list-tpl {
+  .statistics-tags {
+    margin: 10px 0 0;
+    padding-top: 1px;
+    border-radius: 4px;
+    background-color: #fff;
+    .el-form-item {
+      display: flex;
+      /deep/ label {
+        flex-shrink: 0;
+      }
+    }
+  }
+  /deep/ .comp-search-form {
+    .el-form-item {
+      margin: 9px 0 9px 40px;
+      label {
+        font-weight: normal;
+      }
+      &.money-form-item {
+        .el-form-item__content {
+          width: 210px;
+        }
+      }
+    }
+  }
+
+}

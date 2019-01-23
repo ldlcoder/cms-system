@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "error_no": 200,
+  "error_msg": "请求成功",
+  "result": {
+    "trade_info":{
+        "actual_fee": 5000,
+        "fee_time": 1541497781,
+        "actual_downpayment": 15000,
+        "actual_monthly_mortage_payment": 5000,
+        "monthly_mortage_payment_time": 1541497785
+    },
+    "trade_audit": {
+        "audit_result": 1,
+        "remark": "客户资质没问题，已人工审核，建议通过",
+        "operator": "张三",
+        "audit_time": 1541497795
+    },
+    "car_ready": {
+        "plate_number": "浙BXXXXXXXXXXX",
+        "gps_1": "89888888",
+        "gps_2": "99204200",
+        "gps_1_position": "车底  尾箱",
+        "merchant": "XXXXXXXXXXX",
+        "insurance_interval": 1,
+        "remark": "XXXXXXXXXXX",
+        "operator": "张三",
+        "audit_time": 1541497895
+    }
+  }
+}

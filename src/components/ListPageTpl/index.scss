@@ -1,0 +1,17 @@
+.comp-list-page-tpl {
+  $themeColor: #f6faff;
+  /deep/ .lpt-table {
+    .tb-header-cell, .el-table__row--striped td {
+      background-color: $themeColor;
+    }
+  }
+   
+  .pagination-container {
+    margin-top: 4px;
+    padding: 18px 0;
+    text-align: center;
+    background-color: #fff;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+  }
+}

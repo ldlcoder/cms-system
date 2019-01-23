@@ -1,0 +1,27 @@
+{
+  "error_no": 200,
+  "error_msg": "请求成功",
+  "result": {
+      "images":{
+        "1": [
+          {
+            "id": 1681617,
+            "file_id": "e2f0853182845163252145faa5deb778",
+            "file_path": "http://static01-ifcar.oss-cn-hangzhou.aliyuncs.com/anjie/uploads/image/20180606/e2f0853182845163252145faa5deb778.png"
+          },
+          {
+            "id": 1681618,
+            "file_id": "4d7c8ec811a947a52f358b3ffed5b17a",
+            "file_path": "http://static01-ifcar.oss-cn-hangzhou.aliyuncs.com/anjie/uploads/image/20180606/4d7c8ec811a947a52f358b3ffed5b17a.png"
+          }
+        ],
+        "2": [
+          {
+            "id": 1681619,
+            "file_id": "6d8e8994abbdf4c54a6013c4440e6935",
+            "file_path": "http://static01-ifcar.oss-cn-hangzhou.aliyuncs.com/anjie/uploads/image/20180606/6d8e8994abbdf4c54a6013c4440e6935.png"
+          }
+        ]
+      }
+  }
+}

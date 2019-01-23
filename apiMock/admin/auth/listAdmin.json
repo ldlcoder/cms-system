@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "error_no": 200,
+  "error_msg": "请求成功",
+  "result": {
+      "total": 2,
+      "list": [
+          {
+              "id": 2,
+              "name": "Dr. Gretchen Streich",
+              "mobile": 12641678073,
+              "invite_code": "123456",
+              "company_id": 1,
+              "created_admin_user": "添加用户",
+              "entry_time": 1541570318,
+              "created_at": 1541570318,
+              "invite_link": "http://www.baidu.com",
+              "roles": [
+                  {
+                      "id": 2,
+                      "name": "普通管理员"
+                  }
+              ],
+              "status": 1
+          },
+          {
+              "id": 1,
+              "name": "Mr. Bartholome Hilpert",
+              "mobile": 12506808328,
+              "invite_code": "456789",
+              "company_id": 1,
+              "created_admin_user": "详细",
+              "entry_time": 1541568148,
+              "created_at": 1541568148,
+              "invite_link": "http://www.baidu.com",
+              "roles": [
+                  {
+                      "id": 1,
+                      "name": "Sentiger"
+                  },
+                  {
+                      "id": 2,
+                      "name": "普通管理员"
+                  }
+              ],
+              "status": 2
+          }
+      ]
+  }
+}

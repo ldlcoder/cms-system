@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "errorCode": "E001",
+  "errorMsg": "asdfa",
+  "result": [
+    {
+        "label": "奥迪",
+        "value": "奥迪"
+    },
+    {
+        "label": "宝马",
+        "value": "宝马"
+    }
+  ]
+}

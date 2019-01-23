@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "error_no": 200,
+  "error_msg": "请求成功",
+  "result": {
+    "total": 13147,
+    "list": [
+      {
+        "id": 12,
+        "nickname": "飞龙在天",
+        "name": "廖东",
+        "mobile": "18725693854",
+        "appointmentCounter": "有预约",
+        "tradeCounter": "有订单",
+        "address": "浙江省杭州市",
+        "created_at": 1516878588,
+		    "inviter": "李凯达"
+      },
+      {
+        "id": 13,
+        "nickname": "梦之非",
+        "name": "小匿名",
+        "mobile": "18725693854",
+        "appointmentCounter": "无预约",
+        "tradeCounter": "有订单",
+        "address": "浙江省杭州市",
+        "created_at": 1516878588,
+		    "inviter": "李凯达"
+      }
+    ]
+  }
+}

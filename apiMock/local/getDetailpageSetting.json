@@ -1,0 +1,25 @@
+{
+    "success":true,
+    "error_no":"200",
+    "error_msg":"",
+    "result":{
+        "questions":{
+            "show":true,
+            "list":[
+                {
+                    "question":"G1LLz",
+                    "answer":"D#hf"
+                }
+            ]
+        },
+        "process":{
+            "show":false,
+            "list":[
+                {
+                    "title":"4expc",
+                    "description":"XA$t)h["
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "success":true,
+    "error_no":200,
+    "error_msg":"请求成功",
+    "result":{
+        "total":5,
+        "list":[
+            {
+                "id":6,
+                "name":"杭州分公司",
+                "created_admin_user":"超级管理员",
+                "created_at":1542608625,
+                "responsible":"张三",
+                "status": 0
+            },
+            {
+                "id":4,
+                "name":"山东分公司",
+                "created_admin_user":"超级管理员",
+                "created_at":1542607674,
+                "responsible":"李四",
+                "status": 1
+            }
+        ]
+    }
+}

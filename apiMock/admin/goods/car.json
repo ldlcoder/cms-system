@@ -1,0 +1,75 @@
+{
+  "success": true,
+  "error_no": 200,
+  "error_msg": "请求成功",
+  "result": {
+      "brand": [
+        {
+            "label": "奥迪",
+            "value": "奥迪"
+        },
+        {
+            "label": "宝马",
+            "value": "宝马"
+        }
+      ],
+      "series": {
+        "奥迪": [
+            {
+                "label": "A3",
+                "value": "A3"
+            },
+            {
+                "label": "A4",
+                "value": "A4"
+            }
+        ],
+        "宝马":[
+            {
+                "label": "3系",
+                "value": "3系"
+            },
+
+            {
+                "label": "5系",
+                "value": "5系"
+            }
+        ]
+      },
+      "type": {
+        "A3": [
+            {
+                "label": "微型车",
+                "value": "微型车"
+            },
+
+            {
+                "label": "小型车",
+                "value": "小型车"
+            }
+          ],
+        "A4": [
+          {
+              "label": "SUV",
+              "value": "SUV"
+          },
+
+          {
+              "label": "MPV",
+              "value": "MPV"
+          }
+        ],
+        "5系": [
+          {
+              "label": "豪华车",
+              "value": "豪华车"
+          },
+
+          {
+              "label": "跑车",
+              "value": "跑车"
+          }
+        ]
+      }
+  }
+}

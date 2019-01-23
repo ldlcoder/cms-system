@@ -1,0 +1,494 @@
+{
+    "success": true,
+    "error_no": 200,
+    "error_msg": "请求成功",
+    "result": [
+        {
+            "id": 1,
+            "pid": 0,
+            "title": "订单审核",
+            "name": "OrderAudit",
+            "is_menu": 1,
+            "index": 0,
+            "children": [
+                {
+                    "id": 2,
+                    "pid": 1,
+                    "title": "风控审核",
+                    "name": "RiskControl",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": []
+                },
+                {
+                    "id": 3,
+                    "pid": 1,
+                    "title": "备车确认",
+                    "name": "CarPrepare",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": []
+                },
+                {
+                    "id": 4,
+                    "pid": 1,
+                    "title": "交车确认",
+                    "name": "CarDelivery",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "pid": 0,
+            "title": "客户管理",
+            "name": "CustomerMana",
+            "is_menu": 1,
+            "index": 6,
+            "children": [
+                {
+                    "id": 6,
+                    "pid": 5,
+                    "title": "客户管理列表",
+                    "name": "CustomerList",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": [
+                        {
+                            "id": 7,
+                            "pid": 6,
+                            "title": "换绑客户经理",
+                            "name": "change",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "pid": 0,
+            "title": "订单管理",
+            "name": "OrderMana",
+            "is_menu": 1,
+            "index": 0,
+            "children": [
+                {
+                    "id": 9,
+                    "pid": 8,
+                    "title": "订单管理",
+                    "name": "OrderList",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": [
+                        {
+                            "id": 10,
+                            "pid": 9,
+                            "title": "查看订单",
+                            "name": "detail",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 11,
+                            "pid": 9,
+                            "title": "修改订单",
+                            "name": "edit",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "pid": 8,
+                    "title": "预约记录",
+                    "name": "ReservationList",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": []
+                },
+                {
+                    "id": 13,
+                    "pid": 8,
+                    "title": "支付记录",
+                    "name": "OrderPayList",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "pid": 0,
+            "title": "车辆管理",
+            "name": "CarsMana",
+            "is_menu": 1,
+            "index": 14,
+            "children": [
+                {
+                    "id": 14,
+                    "pid": 13,
+                    "title": "车辆管理",
+                    "name": "CarList",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": [
+                        {
+                            "id": 18,
+                            "pid": 14,
+                            "title": "已上架车辆",
+                            "name": "upList",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 19,
+                            "pid": 14,
+                            "title": "已下架车辆",
+                            "name": "downList",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 20,
+                            "pid": 14,
+                            "title": "新增车辆",
+                            "name": "add",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 21,
+                            "pid": 14,
+                            "title": "删除车辆",
+                            "name": "delete",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 22,
+                            "pid": 14,
+                            "title": "上牌地管理",
+                            "name": "citySet",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "pid": 0,
+            "title": "贷款方案",
+            "name": "LoansMana",
+            "is_menu": 1,
+            "index": 24,
+            "children": [
+                {
+                    "id": 24,
+                    "pid": 23,
+                    "title": "新车贷款方案",
+                    "name": "LoanIndex",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": [
+                        {
+                            "id": 25,
+                            "pid": 24,
+                            "title": "新增方案",
+                            "name": "add",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 26,
+                            "pid": 24,
+                            "title": "设置月供",
+                            "name": "setMonthly",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 27,
+                            "pid": 24,
+                            "title": "修改方案",
+                            "name": "edit",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 28,
+                            "pid": 24,
+                            "title": "删除方案",
+                            "name": "delete",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "pid": 0,
+            "title": "员工管理",
+            "name": "StaffMana",
+            "is_menu": 1,
+            "index": 30,
+            "children": [
+                {
+                    "id": 30,
+                    "pid": 29,
+                    "title": "员工管理",
+                    "name": "StaffList",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": [
+                        {
+                            "id": 31,
+                            "pid": 30,
+                            "title": "查看",
+                            "name": "detail",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 32,
+                            "pid": 30,
+                            "title": "禁用/启用",
+                            "name": "disabled",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "pid": 0,
+            "title": "权限管理",
+            "name": "RightMana",
+            "is_menu": 1,
+            "index": 0,
+            "children": [
+                {
+                    "id": 34,
+                    "pid": 33,
+                    "title": "用户管理",
+                    "name": "AccountList",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": [
+                        {
+                            "id": 35,
+                            "pid": 34,
+                            "title": "新增用户",
+                            "name": "add",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 36,
+                            "pid": 34,
+                            "title": "编辑用户",
+                            "name": "edit",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 37,
+                            "pid": 34,
+                            "title": "删除用户",
+                            "name": "delete",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 38,
+                            "pid": 34,
+                            "title": "分配角色",
+                            "name": "allotRole",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": 51,
+                    "pid": 33,
+                    "title": "角色管理",
+                    "name": "RoleMana",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": [
+                        {
+                            "id": 52,
+                            "pid": 51,
+                            "title": "新增角色",
+                            "name": "add",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 53,
+                            "pid": 51,
+                            "title": "权限设置",
+                            "name": "setAuth",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 54,
+                            "pid": 51,
+                            "title": "删除角色",
+                            "name": "delete",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": 39,
+                    "pid": 33,
+                    "title": "公司部门",
+                    "name": "ComStructure",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": [
+                        {
+                            "id": 40,
+                            "pid": 39,
+                            "title": "分公司管理",
+                            "name": "addFiliale",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 41,
+                            "pid": 39,
+                            "title": "团队管理",
+                            "name": "addTeam",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "pid": 0,
+            "title": "页面配置",
+            "name": "PageSetting",
+            "is_menu": 1,
+            "index": 43,
+            "children": [
+                {
+                    "id": 43,
+                    "pid": 42,
+                    "title": "H5页面配置",
+                    "name": "WapPageSetting",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": [
+                        {
+                            "id": 44,
+                            "pid": 43,
+                            "title": "首页",
+                            "name": "homepage",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        },
+                        {
+                            "id": 45,
+                            "pid": 43,
+                            "title": "订单详情页",
+                            "name": "detailpage",
+                            "is_menu": 0,
+                            "index": 0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "pid": 0,
+            "title": "合同管理",
+            "name": "ContractMana",
+            "is_menu": 1,
+            "index": 0,
+            "children": [
+                {
+                    "id": 47,
+                    "pid": 46,
+                    "title": "企业信息",
+                    "name": "CompsInfo",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": []
+                },
+                {
+                    "id": 48,
+                    "pid": 46,
+                    "title": "电子合同",
+                    "name": "EleContract",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "pid": 0,
+            "title": "系统设置",
+            "name": "SystemSetting",
+            "is_menu": 1,
+            "index": 50,
+            "children": [
+                {
+                    "id": 50,
+                    "pid": 49,
+                    "title": "商户配置",
+                    "name": "WxOfficalAccount",
+                    "is_menu": 1,
+                    "index": 0,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

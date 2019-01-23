@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "error_no": 200,
+  "error_message": "",
+  "result": {
+    "sub_company": [     
+      {
+        "value": 1,
+        "label": "浙江分公司"
+      },
+      {
+        "value": 2,
+        "label": "湖南分公司"
+      }
+    ],
+    "team": {
+      "1": [
+        {
+          "value": 200,
+          "label": "杭州团队"
+        },
+        {
+          "value": 201,
+          "label": "宁波团队"
+        }
+      ],
+      "2": [
+        {
+          "value": 211,
+          "label": "长沙团队"
+        },
+        {
+          "value": 401,
+          "label": "株洲团队"
+        }
+      ]
+    }
+  }
+}

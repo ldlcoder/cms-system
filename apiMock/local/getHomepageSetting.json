@@ -1,0 +1,26 @@
+{
+    "success":true,
+    "error_no":"200",
+    "error_msg":"",
+    "result":{
+        "banner":[
+            {
+                "type":"link",
+                "type_value":"http://www.baidu.com",
+                "img_src":"//yiche-static.oss-cn-hangzhou.aliyuncs.com/saasyc/uploads/image/20181203/7a8b329c57ac38e9fac1e300847fbf77.png"
+            }
+        ],
+        "hot_cars":{
+            "num":10
+        },
+        "questions":{
+            "show":false,
+            "list":[
+                {
+                    "question":"Vl#qY",
+                    "answer":"wfw*"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "success":true,
+  "error_no":200,
+  "error_msg":"请求成功",
+  "result":[
+      {
+        "url":"http://baidu.com",
+        "text":"国泰融租定金支付合同"
+      },
+      {
+        "url":"http://baidu.com",
+        "text":"国泰融租保证合同"
+      },
+      {
+        "url":"http://baidu.com",
+        "text":"委托支付合同"
+      }
+  ]
+}

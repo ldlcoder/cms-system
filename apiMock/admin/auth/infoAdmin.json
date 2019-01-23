@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "error_no": 200,
+  "error_msg": "请求成功",
+  "result": {
+      "id": 1,
+      "name": "Rachelle Dach",
+      "entry_time": 1541554339,
+      "company": "Dr. Matteo O'Keefe V",
+      "role_ids": [
+          1
+      ],
+      "mobile": 13437746072,
+      "invite_code": "",
+      "invite_link": ""
+  }
+}

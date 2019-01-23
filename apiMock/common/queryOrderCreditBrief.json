@@ -1,0 +1,12 @@
+{
+    "success":true,
+    "error_no":"200",
+    "error_msg":"",
+    "result":{
+        "id":12323,
+        "name":"张三",
+        "type":"客户",
+        "is_query":true,
+        "result":"success"
+    }
+}

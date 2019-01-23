@@ -1,0 +1,43 @@
+{
+  "error_no": 200,
+  "error_msg": "请求成功",
+  "result": [
+    {
+      "id": 1,
+      "name": "身份证",
+      "type": "image",
+      "list": [
+          {
+              "file_id": "e2f0853182845163252145faa5deb778",
+              "file_path": "http://static01-ifcar.oss-cn-hangzhou.aliyuncs.com/anjie/uploads/image/20180606/e2f0853182845163252145faa5deb778.png"
+          },
+          {
+              "file_id": "4d7c8ec811a947a52f358b3ffed5b17a",
+              "file_path": "http://static01-ifcar.oss-cn-hangzhou.aliyuncs.com/anjie/uploads/image/20180606/4d7c8ec811a947a52f358b3ffed5b17a.png"
+          }
+      ]
+    },
+    {
+        "id": 2,
+        "name": "授权书",
+        "type": "image",
+        "list": [
+            {
+                "file_id": "6d8e8994abbdf4c54a6013c4440e6935",
+                "file_path": "http://static01-ifcar.oss-cn-hangzhou.aliyuncs.com/anjie/uploads/image/20180606/6d8e8994abbdf4c54a6013c4440e6935.png"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "家访视频",
+        "type": "video",
+        "list": [
+            {
+                "file_id": "ef352ae485892fc2944511c173085a5e",
+                "file_path": "http://static01-ifcar.oss-cn-hangzhou.aliyuncs.com/anjie/uploads/video/20180730/ef352ae485892fc2944511c173085a5e.mp4"
+            }
+        ]
+    }
+  ]
+}

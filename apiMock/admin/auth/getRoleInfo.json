@@ -1,0 +1,9 @@
+{
+    "success":true,
+    "error_no":"200",
+    "error_msg":"",
+    "result":{
+        "name":"风控",
+        "right_ids":[12, 14, 222, 1, 2, 21]
+    }
+}

@@ -1,0 +1,11 @@
+.info-table-detail {
+  .ltpl-simple-form {
+    padding: 20px 20px 20px 0;
+    background: $themeColor;
+  }
+  .lease-common-form {
+    /deep/ .comp-form-item-fields {
+      width: 700px;
+    }
+  }
+}

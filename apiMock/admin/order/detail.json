@@ -1,0 +1,96 @@
+{
+  "success": true,
+  "error_no": 200,
+  "error_msg": "请求成功",
+  "result": {
+    "source": {
+      "inviter": " 李四",
+      "created_at": 1540979658
+    },
+    "customer": {
+        "name": "张三",
+        "idcard": "439474239742898",
+        "mobile": "18038237983",
+        "sex": "男",
+        "age": "28",
+        "has_usedname": 1,
+        "usedname": "小明",
+        "idcard_address": " 浙江省杭州市西湖区",
+        "telephone": "15245789632",
+        "driver_license_belongs": 1,
+        "driver_license_number": "350583198601119272",
+        "living_address": "浙江省杭州市西湖区",
+        "living_last": 2,
+        "last_living_address": "浙江省杭州市西湖区",
+        "last_living_last": 1,
+        "residence_condition": 1,
+        "marriage": 1,
+        "eduation": 2,
+        "usage": 1,
+        "income_source": 1,
+        "annual_income": 12000,
+        "credit_history_brief": 5
+    },
+    "work": {
+        "position": "PHP研发",
+        "work_company_name": "聚车金融有效公司",
+        "work_company_telephone": "057167894987",
+        "seniority": "2年",
+        "work_company_address": "西湖区"
+    },
+    "contacts": [
+        {
+            "name": "张三",
+            "relationship": 1,
+            "mobile": "18349583748"
+        },
+        {
+            "name": "李四",
+            "relationship": 2,
+            "mobile": "18349583748"
+ 
+        }
+    ],
+    "families": {
+        "name": "张三",
+        "idcard": "439474239742898",
+        "mobile": "18038237983",
+        "sex": "女",
+        "age": "25",
+        "has_usedname": 1,
+        "usedname": "小虎",
+        "eduation": 3,
+        "living_address": "浙江省杭州市西湖区",
+        "income_source": 5,
+        "annual_income": 250000,
+        "position": "PHP研发",
+        "work_company_name": "聚车金融有效公司",
+        "work_company_telephone": "057167894987",
+        "seniority": "2年",
+        "work_company_address": "浙江省",
+        "child_number": "2",
+        "residence_contains_lodger": "4"
+    },
+    "goods": {
+        "car_brand": "奇瑞",
+        "system": "瑞虎8",
+        "is_new": 1,
+        "model": "2018款 1.6L CVT智联精英版",
+        "msrp": 105000,
+        "downpayment_rate": 15000,
+        "monthly_mortage_payment": 2550,
+        "term": "12期"
+    },
+    "loan_choice": [
+        {
+            "name": "贷款方案A",
+            "term": "12期",
+            "downpayment_rate": 0.105,
+            "loan_rate": 0.12,
+            "tax": 1,
+            "insurance_interval": 0,
+            "after_sales_service": 1
+        }
+    ]
+  }
+}

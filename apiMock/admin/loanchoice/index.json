@@ -1,0 +1,41 @@
+
+{
+  "success": true,
+  "error_no": 200,
+  "error_msg": "请求成功",
+  "result": {
+    "total": 147,
+    "list": [
+      {
+        "id": 12,
+        "name": "贷款方案A",
+        "term": "12期",
+        "downpayment_rate": 0.1,
+        "loan_rate": 0.12,
+        "tax": 1,
+        "insurance_interval": 1,
+        "after_sales_service": 0
+      },
+      {
+        "id": 13,
+        "name": "贷款方案A",
+        "term": "24期",
+        "downpayment_rate": 0.1,
+        "loan_rate": 0.12,
+        "tax": 1,
+        "insurance_interval": 1,
+        "after_sales_service": 0
+      },
+      {
+        "id": 14,
+        "name": "贷款方案B",
+        "term": "24期",
+        "downpayment_rate": 0.1,
+        "loan_rate": 0.12,
+        "tax": 1,
+        "insurance_interval": 1,
+        "after_sales_service": 0
+      }
+    ]
+  }
+}

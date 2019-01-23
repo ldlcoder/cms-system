@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "error_no": 200,
+  "error_msg": "请求成功",
+  "result": {
+    "total": 13147,
+    "list": [
+      {
+        "id": 12,
+        "car_brand": "奇瑞",
+        "system": "瑞虎8",
+        "model": "奇瑞  瑞虎8  2018款 1.6L CVT智联精英版",
+        "is_new": 2,
+        "msrp": 15000000,
+        "time": 1516878588,
+        "brokerage": "张三"
+      },
+      {
+        "id": 15,
+        "car_brand": "奇瑞",
+        "system": "瑞虎9",
+        "model": "奇瑞  瑞虎9  2018款 1.6L CVT智联精英版",
+        "is_new": 1,
+        "msrp": 40000,
+        "time": 1516878588,
+        "brokerage": "李四"
+      }
+    ]
+  }
+}

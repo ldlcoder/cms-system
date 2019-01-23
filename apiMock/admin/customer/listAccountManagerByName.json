@@ -1,0 +1,21 @@
+{
+  "success":true,
+  "error_no":200,
+  "error_msg":"请求成功",
+  "result":[
+      {
+          "id":12,
+          "name":"张三",
+          "mobile":"15245789632",
+          "company_name":"浙江分公司",
+          "company_team_name":"温州团队"
+      },
+      {
+        "id":13,
+        "name":"张私",
+        "mobile":"15245789632",
+        "company_name":"湖南分公司",
+        "company_team_name":"长沙团队"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "error_no": 200,
+  "error_msg": "请求成功",
+  "result": [
+        {
+            "label": "风控一审组",
+            "value": 1
+        },
+        {
+            "label": "销售组",
+            "value": 2
+ 
+        },
+        {
+          "label": "风控二审组",
+            "value": 3
+        },
+        {
+            "label": "审核组",
+            "value": 4
+        }
+    ]
+}

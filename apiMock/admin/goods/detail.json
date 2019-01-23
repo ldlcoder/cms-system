@@ -1,0 +1,103 @@
+{
+  "success": true,
+  "error_no": 200,
+  "error_msg": "请求成功",
+  "result": {
+    "car_brand": "奇瑞",
+    "system": "瑞虎8",
+    "model": "2018款 1.6L CVT智联精英版",
+    "is_new": 1,
+    "msrp": 150000,
+    "fake_sold_out_num": 20,
+    "deposit": 5000,
+    "fee": 5000,
+    "is_show": 1,
+    "properties": [
+      {
+        "apperance_color": "白色",
+        "interior_color": "黑色"
+      },
+      {
+        "apperance_color": "黑色",
+        "interior_color": "红色"
+      }
+    ],
+    "choices": [
+      {
+        "id": 5,
+        "name": "贷款方案C",
+        "term": 48,
+        "downpayment_rate": 0.2,
+        "loan_rate": 0.1,
+        "downpayment_money": 20000.00,
+        "month_pay": 4000.00,
+        "last_pay": 50000.00,
+        "tax": 1,
+        "insurance_interval": 2,
+        "after_sales_service": 1,
+        "is_default_choice": true,
+        "is_default": 1
+      },
+      {
+        "id": 4,
+        "name": "贷款方案B",
+        "term": 36,
+        "downpayment_rate": 0.1,
+        "loan_rate": 0.2,
+        "downpayment_money": 20000.00,
+        "month_pay": 4000.00,
+        "last_pay": 50000.00,
+        "tax": 1,
+        "insurance_interval": 1,
+        "after_sales_service": 2,
+        "is_default_choice": false,
+        "is_default": 0
+      },
+      {
+        "id": 1,
+        "name": "贷款方案A",
+        "term": 12,
+        "downpayment_rate": 0.1,
+        "loan_rate": 0.1,
+        "downpayment_money": 20000.00,
+        "month_pay": 4000.00,
+        "last_pay": 50000.00,
+        "tax": 1,
+        "insurance_interval": 0,
+        "after_sales_service": 1,
+        "is_default_choice": false,
+        "is_default": 0
+      },
+      {
+        "id": 2,
+        "name": "贷款方案A",
+        "term": 24,
+        "downpayment_rate": 0.1,
+        "loan_rate": 0.2,
+        "downpayment_money": 20000.00,
+        "month_pay": 4000.00,
+        "last_pay": 50000.00,
+        "tax": 2,
+        "insurance_interval": 1,
+        "after_sales_service": 2,
+        "is_default_choice": false,
+        "is_default": 0
+      },
+      {
+        "id": 3,
+        "name": "贷款方案A",
+        "term": 36,
+        "downpayment_rate": 0.1,
+        "loan_rate": 0.3,
+        "downpayment_money": 20000.00,
+        "month_pay": 4000.00,
+        "last_pay": 50000.00,
+        "tax": 1,
+        "insurance_interval": 3,
+        "after_sales_service": 1,
+        "is_default_choice": false,
+        "is_default": 0
+      }
+    ]
+  }
+}

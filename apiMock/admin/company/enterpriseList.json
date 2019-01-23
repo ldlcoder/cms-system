@@ -1,0 +1,35 @@
+{
+  "success":true,
+  "error_no":200,
+  "error_msg":"请求成功",
+  "result":[
+    {
+        "id": 1,
+        "ent_name": "国泰荣祖",
+        "reg_code": "53753489574893",
+        "org_code": "342803824802429",
+        "tax_code": "34834029048203840",
+        "mobile": "18940493049",
+        "legal_name": "张三",
+        "legal_cert_no": "73284032048208402040",
+        "legal_cert_type": "1",
+        "side": "a",
+        "legal_mobile": "18737483746",
+        "stamp_code": "https://baike.baidu.com/pic/%E5%B1%85%E6%B0%91%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E7%A0%81/3400358/0/342ac65c103853436d22772c9413b07ecb8088ca?fr=lemma&ct=single#aid=0&pic=342ac65c103853436d22772c9413b07ecb8088ca"
+    },
+    {
+        "id": 1,
+        "ent_name": "国泰荣祖",
+        "reg_code": "53753489574893",
+        "org_code": "342803824802429",
+        "tax_code": "34834029048203840",
+        "mobile": "18940493049",
+        "legal_name": "张三",
+        "legal_cert_no": "73284032048208402040",
+        "legal_cert_type": "1",
+        "side": "c",
+        "legal_mobile": "18737483746",
+        "stamp_code": "https://baike.baidu.com/pic/%E5%B1%85%E6%B0%91%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E7%A0%81/3400358/0/342ac65c103853436d22772c9413b07ecb8088ca?fr=lemma&ct=single#aid=0&pic=342ac65c103853436d22772c9413b07ecb8088ca"
+    }    
+  ]
+}
