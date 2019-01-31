@@ -1,4 +1,4 @@
-# smartweb
+# 后台管理系统项目脚手架
 
 ## Project setup
 ```
